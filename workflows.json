@@ -1,0 +1,166 @@
+[
+  {
+    "workflow": "n8n Gmail Automation",
+    "platform": "YouTube",
+    "popularity_metrics": {
+      "views": 18400,
+      "likes": 920,
+      "comments": 112,
+      "like_to_view_ratio": 0.05,
+      "comment_to_view_ratio": 0.006
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Quick Start Tutorial: Build Your First Workflow",
+    "platform": "YouTube",
+    "popularity_metrics": {
+      "views": 450000,
+      "likes": 7000,
+      "comments": 1200,
+      "like_to_view_ratio": 0.0156,
+      "comment_to_view_ratio": 0.0027
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "Automate YouTube Channel with n8n",
+    "platform": "YouTube",
+    "popularity_metrics": {
+      "views": 60000,
+      "likes": 950,
+      "comments": 150,
+      "like_to_view_ratio": 0.0158,
+      "comment_to_view_ratio": 0.0025
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n INSANE Shorts Automation Workflow",
+    "platform": "YouTube",
+    "popularity_metrics": {
+      "views": 120000,
+      "likes": 1800,
+      "comments": 300,
+      "like_to_view_ratio": 0.015,
+      "comment_to_view_ratio": 0.0025
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Advanced Workflows Beginner Course",
+    "platform": "YouTube",
+    "popularity_metrics": {
+      "views": 95000,
+      "likes": 1400,
+      "comments": 230,
+      "like_to_view_ratio": 0.0147,
+      "comment_to_view_ratio": 0.0024
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Workflow Masterclass",
+    "platform": "YouTube",
+    "popularity_metrics": {
+      "views": 200000,
+      "likes": 3200,
+      "comments": 500,
+      "like_to_view_ratio": 0.016,
+      "comment_to_view_ratio": 0.0025
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "WhatsApp Reminders Workflow",
+    "platform": "Forum",
+    "popularity_metrics": {
+      "replies": 48,
+      "likes": 37,
+      "contributors": 22,
+      "views": 2500
+    },
+    "country": "India"
+  },
+  {
+    "workflow": "Automating Slack Notifications Using n8n",
+    "platform": "Forum",
+    "popularity_metrics": {
+      "replies": 31,
+      "likes": 18,
+      "contributors": 14,
+      "views": 1900
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "Daily Email Digest Automation",
+    "platform": "Forum",
+    "popularity_metrics": {
+      "replies": 22,
+      "likes": 15,
+      "contributors": 11,
+      "views": 1600
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "Google Sheets Task Automation",
+    "platform": "Forum",
+    "popularity_metrics": {
+      "replies": 27,
+      "likes": 20,
+      "contributors": 13,
+      "views": 2100
+    },
+    "country": "India"
+  },
+  {
+    "workflow": "n8n automation (Google Search)",
+    "platform": "Google",
+    "popularity_metrics": {
+      "search_interest": 64
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n automation (Google Search)",
+    "platform": "Google",
+    "popularity_metrics": {
+      "search_interest": 72
+    },
+    "country": "India"
+  },
+  {
+    "workflow": "n8n gmail automation (Google Search)",
+    "platform": "Google",
+    "popularity_metrics": {
+      "search_interest": 59
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n slack integration (Google Search)",
+    "platform": "Google",
+    "popularity_metrics": {
+      "search_interest": 67
+    },
+    "country": "India"
+  },
+  {
+    "workflow": "dataset_refresh_log",
+    "platform": "system",
+    "popularity_metrics": {
+      "updated_at": "2025-12-28T07:21:33.670758"
+    },
+    "country": "GLOBAL"
+  },
+  {
+    "workflow": "dataset_refresh_log",
+    "platform": "system",
+    "popularity_metrics": {
+      "updated_at": "2025-12-28T07:28:05.431390+00:00"
+    },
+    "country": "GLOBAL"
+  }
+]
